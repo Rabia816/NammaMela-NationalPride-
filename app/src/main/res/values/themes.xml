@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="Theme.NammaMela" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFD700</item>
+        <item name="colorPrimaryContainer">#FFD700</item>
+    </style>
+
+</resources>

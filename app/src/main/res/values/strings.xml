@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">NammaMela</string>
+    <string name="register_title">🎭 Namma-Mela Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="confirm_mobile">Confirm Mobile Number</string>
+    <string name="gmail_address">Gmail Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+
+    <!-- Main Screen -->
+    <string name="search_hint">🔍 Search Drama or Company</string>
+    <string name="play_of_the_day">🎭 Play of the Day</string>
+    <string name="comedy_shows">😂 Popular Comedy Promos</string>
+    <string name="trending_shows">🔥 Trending Dramas</string>
+    <string name="recently_added">🆕 Recently Added</string>
+    <string name="book_seats">🎟 BOOK SEATS</string>
+    <string name="artists">🎭 ARTISTS</string>
+
+    <!-- Profile -->
+    <string name="my_saved">❤ My Saved Drama</string>
+    <string name="my_bookings">📅 My Seat Bookings</string>
+    <string name="change_lang">🌐 Change Language</string>
+    <string name="sign_out">🚪 Sign Out</string>
+    <string name="label_saved">Saved</string>
+    <string name="label_bookings">Bookings</string>
+    <string name="default_user_name">User</string>
+    <string name="default_email">user@example.com</string>
+
+    <!-- Payment & Event Details -->
+    <string name="finalize_payment">💳 SECURE CHECKOUT</string>
+    <string name="event_details">Booking Summary</string>
+    <string name="scan_to_pay">Scan QR with any UPI App</string>
+    <string name="payment_done">VERIFY &amp; GENERATE TICKET</string>
+    <string name="txn_id_hint">Enter 12-digit Ref Number</string>
+    <string name="verifying_payment">Verifying Transaction...</string>
+
+    <string name="drama_name_label">📍 Drama: %s</string>
+    <string name="venue_name_label">🏛️ Venue: %s</string>
+    <string name="address_label">📌 Address: %s</string>
+    <string name="location_label">🌍 Location: %s</string>
+    <string name="map_location_label">🗺️ Map: %s</string>
+    <string name="date_time_label">🕒 Date &amp; Time: %s</string>
+    <string name="seat_label">SEAT NUMBER: %s</string>
+</resources>

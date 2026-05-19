@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312019400976",
+    "firebase_url": "https://namma-mela-5af96-default-rtdb.firebaseio.com",
+    "project_id": "namma-mela-5af96",
+    "storage_bucket": "namma-mela-5af96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312019400976:android:7c8ca84095ed9d97dccd95",
+        "android_client_info": {
+          "package_name": "com.example.nammamela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312019400976-t2adu0qfl61nlfbtct9fhvbtavmf4rrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nammamela",
+            "certificate_hash": "96abc240e335e0294305c95c5d1c5317214441f3"
+          }
+        },
+        {
+          "client_id": "312019400976-4cotjvhpbv75a3p73at5mkb3jo0sh4tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRTtv0mqxosyfM1Rs0aSHzc-wbjxQ6MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312019400976-4cotjvhpbv75a3p73at5mkb3jo0sh4tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ನಮ್ಮ ಮೇಳ</string>
+    <string name="register_title">🎭 ನಮ್ಮ-ಮೇಳ ನೋಂದಣಿ</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="confirm_mobile">ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ದೃಢೀಕರಿಸಿ</string>
+    <string name="gmail_address">ಜಿಮೇಲ್ ವಿಳಾಸ</string>
+    <string name="male">ಪುರುಷ</string>
+    <string name="female">ಮಹಿಳೆ</string>
+    <string name="other">ಇತರ</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="confirm_password">ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="register">ನೋಂದಾಯಿಸಿ</string>
+
+    <!-- Main Screen -->
+    <string name="search_hint">🔍 ನಾಟಕ ಅಥವಾ ಕಂಪನಿಯನ್ನು ಹುಡುಕಿ</string>
+    <string name="play_of_the_day">🎭 ಇಂದಿನ ವಿಶೇಷ ನಾಟಕ</string>
+    <string name="comedy_shows">😂 ಜನಪ್ರಿಯ ಕಾಮಿಡಿ ಪ್ರೋಮೋಗಳು</string>
+    <string name="trending_shows">🔥 ಟ್ರೆಂಡಿಂಗ್ ನಾಟಕಗಳು</string>
+    <string name="recently_added">🆕 ಇತ್ತೀಚಿನ ಸೇರ್ಪಡೆಗಳು</string>
+    <string name="book_seats">🎟 ಸೀಟು ಕಾಯ್ದಿರಿಸಿ</string>
+    <string name="artists">🎭 ಕಲಾವಿದರು</string>
+
+    <!-- Profile -->
+    <string name="my_saved">❤ ನನ್ನ ಉಳಿಸಿದ ನಾಟಕಗಳು</string>
+    <string name="my_bookings">📅 ನನ್ನ ಬುಕಿಂಗ್‌ಗಳು</string>
+    <string name="change_lang">🌐 ಭಾಷೆ ಬದಲಾಯಿಸಿ</string>
+    <string name="sign_out">🚪 ಲಾಗ್ ಔಟ್</string>
+    <string name="label_saved">ಉಳಿಸಲಾಗಿದೆ</string>
+    <string name="label_bookings">ಬುಕಿಂಗ್‌ಗಳು</string>
+    <string name="default_user_name">ಬಳಕೆದಾರ</string>
+    <string name="default_email">user@example.com</string>
+</resources>
