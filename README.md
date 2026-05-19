@@ -143,7 +143,7 @@ https://appetize.io/app/b_e7ydux2je56x27on25mbdzq4rm
 
 ### Clone Repository
 ```bash
-git clone https://github.com/Rabia816/NammaMela.git
+git clone https://github.com/Rabia816/NammaMela-NationalPride-.git
 
   
 
